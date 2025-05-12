@@ -25,4 +25,10 @@ Follow the below procedure to create API credentials in your Cisco Secure Endpoi
    
 ## Regions
 We have 3 regions for Cisco Secure Endpoint.
+- North America (NA) - https://api.amp.cisco.com
+- Europe (eu) - https://api.eu.amp.cisco.com
+- Asia Pacific, Japan, China (APJC) - https://api.apjc.amp.cisco.com
+- You can connect to the region you prefer if you have an account as per respective region.
+
+**NOTE:**  While connecting the connector make sure to give only the region part, like if you are connecting to APJC region then **apjc.amp** needs to given in the field provided in the context pane. Similar for europe it is **eu.amp** and for NA it is **amp**.
 
